@@ -3,6 +3,8 @@
 # by Bolei Zhou
 # last modified by Bolei Zhou, Dec.27, 2017 with latest pytorch and torchvision (upgrade your torchvision please if there is trn.Resize error)
 
+# python3.6 + pytorch0.4.0 + torchvision0.2.2
+
 import torch
 from torch.autograd import Variable as V
 import torchvision.models as models
